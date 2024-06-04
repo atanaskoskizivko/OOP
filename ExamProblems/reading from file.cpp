@@ -69,6 +69,8 @@ int main()
         fout<<people[i];
     }
 
+    fout.close();
+
 
 
 
